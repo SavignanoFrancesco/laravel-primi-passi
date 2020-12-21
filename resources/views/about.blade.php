@@ -6,7 +6,6 @@
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
     </head>
     <body>
-        <h1>Hello Laravel!</h1>
-        <h2>Benvenuto {{$nome}} {{$cognome}} !!</h2>
+        <h1>Nuova rotta 'about'</h1>
     </body>
 </html>
