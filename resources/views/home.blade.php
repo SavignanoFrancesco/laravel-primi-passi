@@ -8,5 +8,6 @@
     <body>
         <h1>Hello Laravel!</h1>
         <h2>Benvenuto {{$nome}} {{$cognome}} !!</h2>
+        <a href="{{route('new_route')}}">NUOVA ROUTE/PAGINA</a>
     </body>
 </html>
